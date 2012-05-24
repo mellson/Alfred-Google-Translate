@@ -26,8 +26,9 @@ or
 
 Add a symlink to where you have the repository.
 I'n my case this looks like this:
-'ln -s /Users/anbh/Desktop/Git/Alfred-Google-Translate/translate.sh /usr/local/bin/translate'
-
+<code>
+ln -s /Users/anbh/Desktop/Git/Alfred-Google-Translate/translate.sh /usr/local/bin/translate
+</code>
 
 Hope you enjoy!
 
