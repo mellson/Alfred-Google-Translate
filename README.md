@@ -9,3 +9,9 @@ To use it in Alfred the default shortcut is 't' followed by the languages and th
 Example if I wan't to translate from English to Danish I would type:
 
 t en da How awesome is Alfred?
+
+
+Hope you enjoy!
+
+Best regards
+Anders
