@@ -16,6 +16,19 @@ If I wan't to translate from English to Danish I would type:
 
 t en da How awesome is Alfred?
 
+#Shell Script
+I've included the shell script if you would like to translate from the terminal.
+
+Options to get this to work, either:
+Move the shell script to somewhere on your PATH.
+
+or
+
+Add a symlink to where you have the repository.
+I'n my case this looks like this:
+'ln -s /Users/anbh/Desktop/Git/Alfred-Google-Translate/translate.sh /usr/local/bin/translate'
+
+
 Hope you enjoy!
 
 Best regards
