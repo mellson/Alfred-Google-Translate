@@ -16,6 +16,26 @@ If I wan't to translate from English to Danish I would type:
 
 t en da How awesome is Alfred?
 
+#Standard Language Version
+I've also encluded an extension which you can use for doing translations easier between standard languages.
+Install the extension and set your default languages at the top of the script.
+
+Now you only have to type:
+
+tt How awesome is Alfred?
+
+To convert between your standard languages.
+
+This makes it easy to also setup up a hotkey for translating selected text in Mac OS X.
+
+Goto to Alfred settings -> Hotkeys
+Add Extensions -> Shell Script
+Select the Google Translator Standard Language extension
+Check the argument box for selected text in OS X
+Set your hotkey and you are done.
+
+Now you can select any text in OS X, press your hotkey and have your translation presented via Growl.
+
 #Shell Script
 I've included the shell script if you would like to translate from the terminal.
 
