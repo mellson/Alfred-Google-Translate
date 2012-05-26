@@ -1,7 +1,7 @@
 Alfred-Google-Translate
 =======================
 
-Extension for Alfred that will do a Google translate for you and output the result via Growl.
+Extension for Alfred that will do a Google translate for you and output the result via Growl and place a copy in your clipboard.
 This extension doesn't use the Google API calls, so it's free to use.
 
 To use it in Alfred the default shortcut is 't' followed by the languages and the text you would like to translate.
