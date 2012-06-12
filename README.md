@@ -2,7 +2,7 @@ Alfred-Google-Translate
 =======================
 #Installation
 Download the extensions here http://d.pr/rMIx
-There are two extensions, a normal translation extension and a standard language version.
+There are two extensions, a normal translation extension and a standard language version (Both described below).
 Choose to install one or both.
 
 #Description
@@ -19,7 +19,9 @@ If you don't input correct language codes you will get funny results.
 
 If I wan't to translate from English to Danish I would type:
 
+<code>
 t en da How awesome is Alfred?
+</code>
 
 #Usage - Standard Language Version
 I've also encluded an extension which you can use for doing translations easier between standard languages.
@@ -27,7 +29,9 @@ Install the extension and set your default languages at the top of the script.
 
 Now you only have to type:
 
+<code>
 tt How awesome is Alfred?
+</code>
 
 To convert between your standard languages.
 
