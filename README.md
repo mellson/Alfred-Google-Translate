@@ -58,8 +58,3 @@ I'n my case this looks like this:
 <code>
 ln -s /Users/anbh/Desktop/Git/Alfred-Google-Translate/translate.sh /usr/local/bin/translate
 </code>
-
-Hope you enjoy!
-
-Best regards
-Anders
