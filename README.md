@@ -17,7 +17,7 @@ https://developers.google.com/translate/v2/using_rest#language-params
 
 If you don't input correct language codes you will get funny results.
 
-If I wan't to translate from English to Danish I would type:
+Example of an English to Danish translation:
 
 <code>
 t en da How awesome is Alfred?
