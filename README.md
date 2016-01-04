@@ -1,7 +1,7 @@
 Alfred-Google-Translate
 =======================
 #Installation
-Download the extensions here http://d.pr/rMIx
+Download the extensions [here](https://github.com/mofus/Alfred-Google-Translate/raw/master/Google%20Translate.alfredworkflow)
 There are two extensions, a normal translation extension and a standard language version (Both described below).
 Choose to install one or both.
 
