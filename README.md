@@ -2,6 +2,7 @@
 I haven´t used this for a while and just experienced that it is no longer working.
 Sorry about that, I will try to fix it soon.
 
+~~
 Alfred-Google-Translate
 =======================
 #Installation
@@ -62,3 +63,4 @@ I'n my case this looks like this:
 <code>
 ln -s /Users/anbh/Desktop/Git/Alfred-Google-Translate/translate.sh /usr/local/bin/translate
 </code>
+~~
